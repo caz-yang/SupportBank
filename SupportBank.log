@@ -1,0 +1,3 @@
+INFO:__main__:logging started.
+INFO:__main__:program started.
+INFO:__main__:Transactions loaded successfully from 'Transactions2013.json'.
