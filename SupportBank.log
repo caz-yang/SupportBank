@@ -1,3 +1,4 @@
 INFO:__main__:logging started.
 INFO:__main__:program started.
+INFO:__main__:Invalid command. User input: Important File Transactions2013.json
 INFO:__main__:Transactions loaded successfully from 'Transactions2013.json'.
